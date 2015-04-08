@@ -2,7 +2,7 @@
 var program = require('commander');
 var converter = require('./lib/converter.js');
 program
-    .version('0.0.1')
+    .version('0.0.4')
     .option('-f, --file', 'Add file to parse')
    // .option('-F, --folder', 'Add folder to parse')
     .option('-o, --output', 'Determine output file')
