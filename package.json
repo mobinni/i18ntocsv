@@ -1,6 +1,6 @@
 {
   "name": "ymltocsv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A cli tool to convert i18n yml files to csv files so you can import them into google sheets, excel, numbers, ...",
   "main": "index.js",
   "scripts": {
