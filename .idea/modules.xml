@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/i18ntocsv.iml" filepath="$PROJECT_DIR$/.idea/i18ntocsv.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/work/projects/plugin/ymltocsv/.idea/ymltocsv.iml" filepath="$USER_HOME$/Documents/work/projects/plugin/ymltocsv/.idea/ymltocsv.iml" />
     </modules>
   </component>
 </project>

@@ -7,7 +7,7 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "filesearch" : "index.js"
+    "yml2csv" : "./index.js"
   },
   "repository": {
     "type": "git",
